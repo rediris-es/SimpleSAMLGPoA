@@ -40,7 +40,9 @@ $ openssl rsa -pubout < clavePrivada.pem > clavePublica.pem
 Una vez configurado y comunicado al equipo de SIR, se han de ralizar pruebas, para lo
 cual puede utilizarse la aplicación de validación:
 
-```http://www.rediris.es/app/sirdemo/demo/sirdemo.php```
+```
+http://www.rediris.es/app/sirdemo/demo/sirdemo.php
+```
 
 #Contacto#
 
