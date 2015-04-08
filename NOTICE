@@ -1,0 +1,13 @@
+
+ Este código fue desarrollado por la Universidad de Málaga y modificado
+por las Universidades de Córdoba y Jaen, participantes en la federación
+CONFIA. El código parte de la base del proyecto PAPI-icgpoa.php, desarrollado
+inicialmente por el equipo de la federación SIR de RedIRIS.
+
+ El objetivo de este código es facilitar la pertencia de IdPs desarrollados
+usando SimpleSAML (no objeto de este aviso) en la federación SIR.
+
+ Este código se distribuye bajo Licencia Apache 2.0. Todas las modificaciones
+sobre este código podrán ser redistribuidas bajo los términos de la licencia
+Apache 2, e incorporando este fichero NOTICE de autoría del código.
+
