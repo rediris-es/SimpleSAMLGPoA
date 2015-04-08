@@ -7,8 +7,10 @@ a su vez como un SP para un IdP SimpleSAMLphp.
 configurar como fuente de autenticación/autorización de este conector. Es decir, el
 flujo de autenticación, iniciado desde un SP conectado a SIR será:
 
+```
 Petición desde SIR -----> Este conector -----> IdP SimpleSAMLphp
 Respuesta a SIR <-------- Este conector <----- IdP SimpleSAMLphp
+```
 
 #Configuración:#
 
