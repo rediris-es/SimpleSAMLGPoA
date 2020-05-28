@@ -1,4 +1,6 @@
-#Descripción:#
+> :warning: **AVISO:** Este repositorio contiene código en desuso y no mantenido
+
+## Descripción:
 
   Este conector implementa un IdP PAPI compatible con el servicio SIR, el cual actua
 a su vez como un SP para un IdP SimpleSAMLphp.
@@ -12,7 +14,7 @@ Petición desde SIR -----> Este conector -----> IdP SimpleSAMLphp
 Respuesta a SIR <-------- Este conector <----- IdP SimpleSAMLphp
 ```
 
-#Configuración:#
+## Configuración:
 
 
   Previo a configurar este conector, hay que generar un par de claves en la ruta que 
@@ -35,7 +37,7 @@ $ openssl rsa -pubout < clavePrivada.pem > clavePublica.pem
 
 (no olvidar adaptar en configuración la ruta y el tamaño de clave)
 
-#Validación del funcionamiento:#
+# Validación del funcionamiento: 
 
 Una vez configurado y comunicado al equipo de SIR, se han de ralizar pruebas, para lo
 cual puede utilizarse la aplicación de validación:
@@ -44,7 +46,7 @@ cual puede utilizarse la aplicación de validación:
 http://www.rediris.es/app/sirdemo/demo/sirdemo.php
 ```
 
-#Contacto#
+## Contacto
 
 Para dudas sobre este código, contactar con el equipo SIR: sir@rediris.es
 
